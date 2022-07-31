@@ -34,6 +34,6 @@
   
   ##
  
-  ![Snake animation](https://github.com/robson-resende/rafaballarini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/robson-resende/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
