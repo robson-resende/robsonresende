@@ -2,7 +2,7 @@
 
 - 💼 Trabalho atualmente, como coordenador na Secretaria de Cultura de Patu-RN.
 - 🏫 Cursando Análise e Desenvolvimento de Sistemas-UNINASSAU.
-- 📖 Estudando atualmente, as linguagens HTML, CSS e JavaScript.
+- 📖 Estudando atualmente, as linguagens HTML, CSS, JavaScript, Bootstrap e Java.
 
   ##
 
