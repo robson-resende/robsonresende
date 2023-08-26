@@ -1,6 +1,6 @@
 # 🤓 Olá, eu sou ROBSON RESENDE(BILU)
 
-- 💼 Trabalho atualmente, como coordenador na Secretaria de Cultura de Patu-RN.
+- 💼 Trabalho atualmente, como servidor na Central do Cidadão de Patu-RN.
 - 🏫 Cursando Análise e Desenvolvimento de Sistemas-UNINASSAU.
 - 📖 Estudando atualmente, as linguagens HTML, CSS, JavaScript, ReactJS.
 
