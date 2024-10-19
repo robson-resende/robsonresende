@@ -1,7 +1,7 @@
 # 🤓 Olá, eu sou ROBSON RESENDE(BILU)
 
-- 💼 Trabalho atualmente, como servidor na Central do Cidadão de Patu-RN.
-- 🏫 Cursando Análise e Desenvolvimento de Sistemas-UNINASSAU.
+- 💼 Trabalho atualmente no polo da unidade da UNINASSAU de Patu-RN.
+- 🏫 Tecnólogo em Análise e Desenvolvimento de Sistemas-UNINASSAU.
 - 📖 Estudando atualmente, as linguagens HTML, CSS, JavaScript, ReactJS.
 
   ##
